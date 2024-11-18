@@ -1,0 +1,24 @@
+[
+    {
+      "nome": "João Silva",
+      "dataCadastro": "2024-11-10",
+      "empreendimento": "Empreendimento A",
+      "unidade": "Unidade 101",
+      "observacoes": "Interessado em financiamento"
+    },
+    {
+      "nome": "Maria Souza",
+      "dataCadastro": "2024-11-09",
+      "empreendimento": "Empreendimento B",
+      "unidade": "Unidade 202",
+      "observacoes": "Precisa de visita no imóvel"
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "dataCadastro": "2024-11-08",
+      "empreendimento": "Empreendimento C",
+      "unidade": "Unidade 303",
+      "observacoes": "Consulta de preço"
+    }
+  ]
+  

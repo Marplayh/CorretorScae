@@ -35,7 +35,8 @@ class HomeScreen extends StatelessWidget {
             // Botões de opções
             ElevatedButton.icon(
               onPressed: () {
-                print("Visualizar Leads");
+                Navigator.pushNamed(context, '/leads');
+
               },
               icon: Icon(Icons.person_search),
               label: Text("Visualizar Leads"),

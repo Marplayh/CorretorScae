@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
-import '/screens/login_screen.dart'; // Tela de login
-import '/screens/home_screen.dart'; // Tela inicial (home)
+import '/screens/login_screen.dart';
+import '/screens/home_screen.dart';
+import '/screens/leads_screen.dart';
+
+
 
 void main() {
   runApp(MyApp());
@@ -19,6 +22,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/login': (context) => LoginScreen(),
         '/home': (context) => HomeScreen(),
+        '/leads' : (context) => LeadScreen(),
       },
     );
   }
